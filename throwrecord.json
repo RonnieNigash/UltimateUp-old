@@ -3,30 +3,30 @@
     "Throw": "5",
     "Distance": "20",
     "Speed": "50",
-    "Stability:" "10"
+    "Stability": "10"
   },
   {
     "Throw": "4",
     "Distance": "40",
     "Speed": "30",
-    "Stability:" "40"
+    "Stability": "40"
   },
   {
     "Throw": "3",
     "Distance": "120",
     "Speed": "30",
-    "Stability:" "50"
+    "Stability": "50"
   },
   {
     "Throw": "2",
     "Distance": "40",
     "Speed": "10",
-    "Stability:" "100"
+    "Stability": "100"
   },
   {
     "Throw": "1",
     "Dstance": "40",
     "Speed": "30",
-    "Stability:" "60"
+    "Stability": "60"
   }
 ]
