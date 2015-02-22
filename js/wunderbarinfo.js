@@ -7,5 +7,8 @@ relayr.devices().getDeviceData({
   token: "_C4efSMSUjtisJQybuiC5PN_pkVW.P-S" ,
   incomingData: function(data){
     console.log("sensor",data);
+    console.log(data.ts);
+    console.log(data.gyro);
+    console.log(data.accel);
   }
 });
