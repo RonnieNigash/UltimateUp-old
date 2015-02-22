@@ -8,7 +8,15 @@ relayr.devices().getDeviceData({
   incomingData: function(data){
     console.log("sensor",data);
     console.log(data.ts);
-    console.log(data.gyro);
+    var roll = data.gyro.x;
+    var x = document.getElementById("roll");
+    x.setAttribute("value", roll);
+    var pitch = data.gyro.y;
+    var y = document.getElementById("pitch");
+    y.setAttribute("value", pitch);
+    var yaw = data.gyro.z;
+    var z = document.getElementById("yaw");
+    z.setAttribute("value", yaw);
     console.log(data.accel);
   }
 });
