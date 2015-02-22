@@ -17,9 +17,9 @@
     <script src = "js/buildHtmlTable.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-    <script>
+    <script type="text/javascript">
     // Builds the HTML Table out of myList json data from Ivy restful service.
-     function buildHtmlTable() {
+     function buildHtmlTable2() {
        var myList =
          [{
            "Throw": "5",
@@ -52,7 +52,7 @@
            "Stability:" "60"
          }
        ]
-         var columns = addAllColumnHeaders(myList);
+         var columns = addAllColumnHeaders2(myList);
 
          for (var i = 0 ; i < myList.length ; i++) {
              var row$ = $('<tr/>');
@@ -70,7 +70,7 @@
      // Adds a header row to the table and returns the set of columns.
      // Need to do union of keys from all records as some records may not contain
      // all records
-     function addAllColumnHeaders(myList)
+     function addAllColumnHeaders2(myList)
      {
          var columnSet = [];
          var headerTr$ = $('<tr/>');
@@ -89,7 +89,8 @@
          return columnSet;
      }
 
-     buildHtmlTable();
+     buildHtmlTable2();
+
     </script>
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
