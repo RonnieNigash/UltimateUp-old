@@ -3,29 +3,29 @@
     "items": [
       {
         "throw": {
-          "distance": "20",
-          "speed": "50",
-          "stability:" "10"
+          "Distance": "20",
+          "Speed": "50",
+          "Stability:" "10"
         },
         "throw": {
-          "distance": "40",
-          "speed": "30",
-          "stability:" "40"
+          "Distance": "40",
+          "Speed": "30",
+          "Stability:" "40"
         },
         "throw": {
-          "distance": "120",
-          "speed": "30",
-          "stability:" "50"
+          "Distance": "120",
+          "Speed": "30",
+          "Stability:" "50"
         },
         "throw": {
-          "distance": "40",
-          "speed": "10",
-          "stability:" "100"
+          "Distance": "40",
+          "Speed": "10",
+          "Stability:" "100"
         },
         "throw": {
-          "distance": "40",
-          "speed": "30",
-          "stability:" "60"
+          "Dstance": "40",
+          "Speed": "30",
+          "Stability:" "60"
         }
       }
     ]

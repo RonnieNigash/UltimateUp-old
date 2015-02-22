@@ -1,23 +1,38 @@
-{"leaderboard": {
-    "count": 3,
-    "items": [
-      {
-        "user":
-        {
-          "name": "Dan",
-          "score": "9999"
-        },
-        "user":
-        {
-          "name": "Michael",
-          "score": "20"
-        },
-        "user":
-        {
-          "name": "Bo",
-          "score": "0"
-        }
-      }
-    ]
+[
+  {
+    "Name": "Dan",
+    "Score": "9999"
+  },
+  {
+    "Name": "Michael",
+    "Score": "20"
+  },
+  {
+    "Name": "Bo",
+    "Score": "0"
   }
-}
+  {
+    "Name": "Dan",
+    "Score": "9999"
+  },
+  {
+    "Name": "Michael",
+    "Score": "20"
+  },
+  {
+    "Name": "Bo",
+    "Score": "0"
+  }
+  {
+    "Name": "Dan",
+    "Score": "9999"
+  },
+  {
+    "Name": "Michael",
+    "Score": "20"
+  },
+  {
+    "Name": "Bo",
+    "Score": "0"
+  }
+]
