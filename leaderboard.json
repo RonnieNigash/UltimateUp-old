@@ -1,38 +1,26 @@
 [
   {
     "Name": "Dan",
-    "Score": "9999"
+    "Score": "9999",
+    "Avg Speed:": "9999",
+    "Avg Distance": "9999",
+    "Avg Airtime": "9999",
+    "Avg Rotation": "9999"
   },
   {
     "Name": "Michael",
-    "Score": "20"
+    "Score": "100",
+    "Avg Speed:": "234",
+    "Avg Distance": "1234",
+    "Avg Airtime": "653",
+    "Avg Rotation": "366"
   },
   {
-    "Name": "Bo",
-    "Score": "0"
-  }
-  {
-    "Name": "Dan",
-    "Score": "9999"
-  },
-  {
-    "Name": "Michael",
-    "Score": "20"
-  },
-  {
-    "Name": "Bo",
-    "Score": "0"
-  }
-  {
-    "Name": "Dan",
-    "Score": "9999"
-  },
-  {
-    "Name": "Michael",
-    "Score": "20"
-  },
-  {
-    "Name": "Bo",
-    "Score": "0"
+    "Name": "Robot",
+    "Score": "354",
+    "Avg Speed:": "334",
+    "Avg Distance": "276",
+    "Avg Airtime": "345",
+    "Avg Rotation": "5552"
   }
 ]
