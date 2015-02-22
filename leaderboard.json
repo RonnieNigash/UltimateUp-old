@@ -1,0 +1,20 @@
+{"leaderboard": {
+    "count": 3,
+    "items": [
+      {
+        "user": {
+          "name": "Dan",
+          "score": "9999"
+        },
+        "user": {
+          "name": "Michael",
+          "score": "20"
+        },
+        "user": {
+          "name": "Bo",
+          "score": "0"
+        }
+      }
+    ]
+  }
+}
