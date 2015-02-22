@@ -6,7 +6,7 @@
      $json = json_decode($data, true);
 
      echo ('<pre> print the json ');
-     print_r ($json);
+     //print_r ($json);
      echo ('</pre>');
 
      echo '<br>output:</br>';
