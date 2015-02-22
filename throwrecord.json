@@ -1,33 +1,32 @@
-{"throws": {
-    "count": 5,
-    "items": [
-      {
-        "throw": {
-          "Distance": "20",
-          "Speed": "50",
-          "Stability:" "10"
-        },
-        "throw": {
-          "Distance": "40",
-          "Speed": "30",
-          "Stability:" "40"
-        },
-        "throw": {
-          "Distance": "120",
-          "Speed": "30",
-          "Stability:" "50"
-        },
-        "throw": {
-          "Distance": "40",
-          "Speed": "10",
-          "Stability:" "100"
-        },
-        "throw": {
-          "Dstance": "40",
-          "Speed": "30",
-          "Stability:" "60"
-        }
-      }
-    ]
+[
+  {
+    "Throw": "5",
+    "Distance": "20",
+    "Speed": "50",
+    "Stability:" "10"
+  },
+  {
+    "Throw": "4",
+    "Distance": "40",
+    "Speed": "30",
+    "Stability:" "40"
+  },
+  {
+    "Throw": "3",
+    "Distance": "120",
+    "Speed": "30",
+    "Stability:" "50"
+  },
+  {
+    "Throw": "2",
+    "Distance": "40",
+    "Speed": "10",
+    "Stability:" "100"
+  },
+  {
+    "Throw": "1",
+    "Dstance": "40",
+    "Speed": "30",
+    "Stability:" "60"
   }
-}
+]
