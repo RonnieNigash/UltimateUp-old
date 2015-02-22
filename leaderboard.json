@@ -2,15 +2,18 @@
     "count": 3,
     "items": [
       {
-        "user": {
+        "user":
+        {
           "name": "Dan",
           "score": "9999"
         },
-        "user": {
+        "user":
+        {
           "name": "Michael",
           "score": "20"
         },
-        "user": {
+        "user":
+        {
           "name": "Bo",
           "score": "0"
         }

@@ -106,7 +106,7 @@ body {
 }
 
 #thumbs {
-    width: 1150px;
+    width: 1000px;
     margin-left: 150px;
     margin-right: auto;
     margin-top:90px;
@@ -125,4 +125,11 @@ body {
     display: inline-block;
     font-size: 0;
     line-height: 0
+}
+
+.table-responsive
+{
+
+  margin-right: 100px;
+
 }

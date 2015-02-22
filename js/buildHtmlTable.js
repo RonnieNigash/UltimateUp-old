@@ -1,6 +1,25 @@
-var myList=[{"name" : "abc", "age" : 50},
-            {"age" : "25", "hobby" : "swimming"},
-            {"name" : "xyz", "hobby" : "programming"}];
+var myList = [
+
+
+    {
+      "name": "Dan",
+      "score": "9999"
+    },
+
+    {
+      "name": "Michael",
+      "score": "20"
+    },
+
+    {
+      "name": "Bo",
+      "score": "0"
+    }
+
+]
+
+
+
 
 // Builds the HTML Table out of myList json data from Ivy restful service.
  function buildHtmlTable() {
