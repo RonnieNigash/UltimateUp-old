@@ -1,29 +1,36 @@
-var myList = [
-  {
-    "Name": "Dan",
-    "Score": "9999",
-    "Avg Speed:": "9999",
-    "Avg Distance": "9999",
-    "Avg Airtime": "9999",
-    "Avg Rotation": "9999"
+var myList2 =
+  [{
+    "Throw": "5",
+    "Distance": "20",
+    "Speed": "50",
+    "Stability:" "10"
   },
   {
-    "Name": "Michael",
-    "Score": "100",
-    "Avg Speed:": "234",
-    "Avg Distance": "1234",
-    "Avg Airtime": "653",
-    "Avg Rotation": "366"
+    "Throw": "4",
+    "Distance": "40",
+    "Speed": "30",
+    "Stability:" "40"
   },
   {
-    "Name": "Robot",
-    "Score": "354",
-    "Avg Speed:": "334",
-    "Avg Distance": "276",
-    "Avg Airtime": "345",
-    "Avg Rotation": "5552"
+    "Throw": "3",
+    "Distance": "120",
+    "Speed": "30",
+    "Stability:" "50"
+  },
+  {
+    "Throw": "2",
+    "Distance": "40",
+    "Speed": "10",
+    "Stability:" "100"
+  },
+  {
+    "Throw": "1",
+    "Dstance": "40",
+    "Speed": "30",
+    "Stability:" "60"
   }
 ]
+
 
 
 // Builds the HTML Table out of myList json data from Ivy restful service.
@@ -39,7 +46,7 @@ var myList = [
 
              row$.append($('<td/>').html(cellValue));
          }
-         $("#excelDataTable").append(row$);
+         $("#recordDataTable").append(row$);
      }
  }
 
@@ -60,7 +67,7 @@ var myList = [
              }
          }
      }
-     $("#excelDataTable").append(headerTr$);
+     $("#recordDataTable").append(headerTr$);
 
      return columnSet;
  }
