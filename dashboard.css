@@ -106,8 +106,8 @@ body {
 }
 
 #thumbs {
-    width: 1000px;
-    margin-left: 150px;
+    width: 1100px;
+    margin-left: auto;
     margin-right: auto;
     margin-top:90px;
     text-align: justify;
@@ -126,6 +126,34 @@ body {
     font-size: 0;
     line-height: 0
 }
+
+#elem1
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+
+}
+
+#elem2
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#elem3
+{
+  margin-left: 100px;
+  margin-right: auto;
+  text-align: center;
+
+
+}
+
+
 
 .table-responsive
 {
