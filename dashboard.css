@@ -104,3 +104,24 @@ body {
   border-radius: 50%;
   font-size: 200px;
 }
+
+
+#elem1
+{
+	padding-right: 100px;
+  padding-right:200px;
+}
+
+
+#elem2
+{
+	padding-left: 200px;
+	padding-right: 200px;
+
+}
+
+#elem3
+{
+	padding-right: 200px;
+  padding-left: 100px;
+}
