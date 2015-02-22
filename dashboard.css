@@ -99,7 +99,8 @@ body {
 .placeholder {
   margin-bottom: 20px;
 }
-.placeholder img {
+.placeholder i {
   display: inline-block;
   border-radius: 50%;
+  font-size: 200px;
 }
